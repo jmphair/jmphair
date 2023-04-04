@@ -1,5 +1,5 @@
-<h1 align='center'>Hey there! 👋</h1>
-<p align='center'>I'm Jonathan.</p>
+<h1 align='center'>Hey there! <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+<p align='center'>I'm Jonathan, a full stack developer with a passion for wellness and all things sustainable.</p>
 <p align='center'>If I'm not on my computer, I'm probably leading a yoga class or out walking my pup!</p>
 
 <h3 align='center'>Get in touch! (Take a class?)</h3>
