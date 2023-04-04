@@ -4,15 +4,17 @@
 
 <h4 align='center'><i>Get in touch! (Take a class?🧘🏻‍♂️)</i></h4>
 
-<a href="https://www.instagram.com/jonathanphair/" align="center">
-  <img alt="Jonathan's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a>
+<div align="center">
+  <a href="https://www.instagram.com/jonathanphair/">
+    <img alt="Jonathan's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+  </a>
 
-<a href="https://www.linkedin.com/in/phair/" align="center">
-  <img alt="Jonathan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+  <a href="https://www.linkedin.com/in/phair/">
+    <img alt="Jonathan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=jmphair.jmphair)
+  ![](https://visitor-badge.glitch.me/badge?page_id=jmphair.jmphair)
+</div>
 
 <br />
 
