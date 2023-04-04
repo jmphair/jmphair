@@ -14,8 +14,6 @@
   </a>
 
   ![Visitors](https://visitor-badge.glitch.me/badge?page_id=jmphair.jmphair)
-  ![Jokes Card](https://readme-jokes.vercel.app/api)
-
 </div>
 
 <br />
