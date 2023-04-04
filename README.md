@@ -2,7 +2,7 @@
 <p align='center'>I'm Jonathan.</p>
 <p align='center'>If I'm not on my computer, I'm probably leading a yoga class or out walking my pup!</p>
 
-<h4 align='center'><i>Get in touch! (Take a class?🧘🏻‍♂️)</i></h4>
+<h3 align='center'>Get in touch! (Take a class?)</h3>
 
 <div align="center">
   <a href="https://www.instagram.com/jonathanphair/">
