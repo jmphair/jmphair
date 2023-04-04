@@ -1,6 +1,5 @@
-#Oh hey! You made it!
+# You found me!
 
-### hey there 
 <a href="https://www.instagram.com/jonathanphair/">
   <img align="left" alt="Jonathan's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
