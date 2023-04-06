@@ -19,7 +19,7 @@
     <summary>:books: Currently Learning?</summary>
     <!--START_SECTION:activity-->
     - EVERYTHING! :rofl:
-    - But also... [<img align="left" alt="TS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" style="padding-right:10px;"/>][<img align="left" alt="Swift" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png" style="padding-right:10px;"/>][<img align="left" alt="Laravel/PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png" style="padding-right:10px;"/>]
+    - But also... [<a href="https://www.typescriptlang.org/"><img align="left" alt="TS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" style="padding-right:10px;"/></a>][<a href="https://developer.apple.com/swift/"><img align="left" alt="Swift" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png" style="padding-right:10px;"/></a>][<a href="https://laravel.com/"><img align="left" alt="Laravel/PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png" style="padding-right:10px;"/></a>]
     <!--END_SECTION:activity-->
   </details>
 
