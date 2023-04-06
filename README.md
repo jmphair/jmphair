@@ -3,19 +3,6 @@
 <p align='center'>I want to know what you're learning about and working on. What lights you up?!</p>
 <p align='center'>If I'm not on my computer, I'm probably leading a yoga class or out walking my pup!</p>
 
-<h3 align='center'>Get in touch!</h3>
-<p align='center'>(Take a class?)</p>
-
-
-<div align="center">
-  <p>
-    <a href="https://www.instagram.com/jonathanphair/"><img alt="Jonathan's Instagram" width="26px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" /></a>
-    <a href="https://www.linkedin.com/in/phair/"><img alt="Jonathan's LinkedIN" width="26px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /></a>
-  </p>
-  
-  ![Visitors](https://visitor-badge.glitch.me/badge?page_id=jmphair.jmphair)
-  
-
   <details>
     <summary>:books: Currently Learning?</summary>
     <br>
@@ -31,6 +18,16 @@
     <summary>:zap: GitHub Stats</summary>
     <p align="center"> <img src="https://github-readme-stats-sigma-teal-72.vercel.app/api?username=jmphair&show_icons=true&theme=gotham" alt="jmphair" />
   </details>
+
+<h3 align='center'>Get in touch!</h3>
+
+<div align="center">
+  <p>
+    <a href="https://www.instagram.com/jonathanphair/"><img alt="Jonathan's Instagram" width="26px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" /></a>
+    <a href="https://www.linkedin.com/in/phair/"><img alt="Jonathan's LinkedIN" width="26px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /></a>
+  </p>
+  
+  ![Visitors](https://visitor-badge.glitch.me/badge?page_id=jmphair.jmphair)
 
 </div>
 
