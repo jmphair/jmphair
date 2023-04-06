@@ -16,6 +16,12 @@
   ![Visitors](https://visitor-badge.glitch.me/badge?page_id=jmphair.jmphair)
 
   <details>
+    <summary>:books: Currently Learning?
+    - EVERYTHING! :rofl:
+    - But also... <img align="left" alt="TS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript typescript.png" style="padding-right:10px;"/><img align="left" alt="Swift" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png" style="padding-right:10px;"/><img align="left" alt="Laravel/PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png" style="padding-right:10px;"/>
+  </details>
+
+  <details>
     <summary>:zap: GitHub Stats</summary>
     <p align="center"> <img src="https://github-readme-stats-sigma-teal-72.vercel.app/api?username=jmphair&show_icons=true&theme=gotham" alt="jmphair" />
   </details>
