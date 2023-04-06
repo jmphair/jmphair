@@ -5,11 +5,13 @@
 <h3 align='center'>Get in touch! (Take a class?)</h3>
 
 <div align="center">
-  <a align="left" href="https://www.instagram.com/jonathanphair/"><img alt="Jonathan's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" /></a>
-
-  <a align="left" href="https://www.linkedin.com/in/phair/"><img alt="Jonathan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /></a>
-
+  <p>
+    <a href="https://www.instagram.com/jonathanphair/"><img alt="Jonathan's Instagram" width="26px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" /></a>
+    <a href="https://www.linkedin.com/in/phair/"><img alt="Jonathan's LinkedIN" width="26px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /></a>
+  </p>
+  
   ![Visitors](https://visitor-badge.glitch.me/badge?page_id=jmphair.jmphair)
+  
 
   <details>
     <summary>:books: Currently Learning?</summary>
