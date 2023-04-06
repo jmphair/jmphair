@@ -15,7 +15,10 @@
 
   ![Visitors](https://visitor-badge.glitch.me/badge?page_id=jmphair.jmphair)
 
-  <p align="center"> <img src="https://github-readme-stats-sigma-teal-72.vercel.app/api?username=jmphair&show_icons=true&theme=gotham" alt="jmphair" />
+  <details>
+    <summary>:zap: GitHub Stats</summary>
+    <p align="center"> <img src="https://github-readme-stats-sigma-teal-72.vercel.app/api?username=jmphair&show_icons=true&theme=gotham" alt="jmphair" />
+  </details>
 
 </div>
 
