@@ -18,6 +18,7 @@
 
   <details>
     <summary>:zap: GitHub Stats</summary>
+    <br>
     <p align="center"> <img src="https://github-readme-stats-sigma-teal-72.vercel.app/api?username=jmphair&show_icons=true&theme=gotham" alt="jmphair" />
   </details>
 
