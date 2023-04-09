@@ -1,15 +1,15 @@
 <h1 align='center'>Hey there! <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
-<p align='center'>I'm Jonathan, a full stack developer with a passion for wellness, lifelong learning, and all things sustainable.</p>
-<p align='center'>I want to know what you're learning about and working on. What lights you up?!</p>
-<p align='center'>If I'm not on my computer, I'm probably leading a yoga class or out walking my pup!</p>
+<p align='center'>I'm Jonathan, a full stack developer with a passion for education, wellness, and all things sustainable.</p>
+<p align='center'>I code because making things has always been something that gives me a sense of satisfaction and accomplishment; why do you code?</p>
+<p align='center'>If I'm not on my computer, I'm probably leading a yoga class, fixing something, or out walking my pup!</p>
 
 <div align="center">
 
   <details>
-    <summary>:books: Currently Learning?</summary>
+    <summary>:books: Currently Studying?</summary>
     <br>
     <p>EVERYTHING! :rofl:</p>
-    <p>But really, in addition to staying on top of what I've learned so far,</p> 
+    <p>But really, in addition to staying on top of my core skillset,</p> 
     <p>I'm learning about:</p> 
     <a href="https://www.typescriptlang.org/"><img alt="TS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" style="padding-right:10px;"/></a>
     <a href="https://developer.apple.com/swift/"><img alt="Swift" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png" style="padding-right:10px;"/></a>
