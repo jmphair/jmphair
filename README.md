@@ -29,7 +29,7 @@
     <a href="https://www.linkedin.com/in/phair/"><img alt="Jonathan's LinkedIN" width="26px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /></a>
   </p>
   
-  ![Visitors](https://visitor-badge.glitch.me/badge?page_id=jmphair.jmphair)
+  <!-- ![Visitors](https://visitor-badge.glitch.me/badge?page_id=jmphair.jmphair) -->
 
 </div>
 
