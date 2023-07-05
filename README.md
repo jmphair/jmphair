@@ -16,11 +16,11 @@
     <a href="https://laravel.com/"><img alt="Laravel/PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png" style="padding-right:10px;"/></a>
   </details>
 
-  <details>
+  <!-- <details>
     <summary>:zap: GitHub Stats</summary>
     <br>
     <p align="center"> <img src="https://github-readme-stats-sigma-teal-72.vercel.app/api?username=jmphair&show_icons=true&theme=gotham" alt="jmphair" />
-  </details>
+  </details> -->
 
   <h3 align='center'>Get in touch!</h3>
 
